@@ -39,5 +39,5 @@
 
 ## Authors
 
-- TREDDY NJENGA MUONGI - treddy.njenga@gmail.com- 
+- TREDDY NJENGA MUONGI - treddy.njenga@gmail.com 
 - AVA NJERI GORO - njeri.goro@strathmore.edu
