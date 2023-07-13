@@ -29,9 +29,7 @@
 
 ### Features
 
-- [Insert feature 1]
-- [Insert feature 2]
-- [Insert feature 3]
+- Price negotiations feature
 
 ## Built With
 
